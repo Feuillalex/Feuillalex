@@ -1,4 +1,3 @@
-<!-- Bannière ou image d’accueil -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=header&text=👋%20Bienvenue%20sur%20mon%20GitHub!&fontSize=28&fontColor=ffffff" />
 </div>
@@ -34,24 +33,16 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 <div align="center">
 
 ### 🔹 Langages & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔹 Outils Minecraft & Backend  
-![PaperMC](https://img.shields.io/badge/PaperMC-white?style=for-the-badge&logoColor=black)
-![Velocity](https://img.shields.io/badge/Velocity-black?style=for-the-badge)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white)  
+![PaperMC](https://img.shields.io/badge/PaperMC-white?style=for-the-badge&logoColor=black) ![Velocity](https://img.shields.io/badge/Velocity-black?style=for-the-badge) ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white)
 
 ### 🔹 Bases de données  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔹 Frontend & DevOps  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -79,6 +70,7 @@ Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authen
 ---
 
 ## ✉️ Me contacter
+Envie de discuter technique, collaborer, ou simplement partager une idée ?
 
 <div align="center">
   <a href="https://discord.com/users/856846166627713024">
