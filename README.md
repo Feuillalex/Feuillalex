@@ -2,7 +2,7 @@
 
 🎓 **Développeur Java & JavaScript**, spécialisé dans l’univers des jeux-vidéo et plus particulièrement de Minecraft et des infrastructures dynamiques.
 
-Je travaille actuellement sur **Eldium** et **Shandera**, deux serveurs Minecraft francophones.  
+Je travaille actuellement sur **Eldium**, mon serveur Minecraft UHC/Mini-jeux.  
 Mon quotidien : coder des plugins, gérer des serveurs à la volée, optimiser des bots et mettre en place des infrastructures solides pour des milliers de joueurs.
 
 ---
@@ -19,7 +19,7 @@ Mon quotidien : coder des plugins, gérer des serveurs à la volée, optimiser d
 
 | Domaine | Description |
 |--------|-------------|
-| 🧩 **Plugins Minecraft** | Développement custom via **Java** (Paper, Velocity) |
+| 🧩 **Plugins Minecraft** | Développement avec **Java** (Bukkit, Velocity) |
 | ⚙️ **Infrastructures dynamiques** | Mise en place de serveurs à la demande |
 | 🤖 **Bots Discord** | Automatisation de la gestion communautaire avec **Discord.js** |
 | 🧪 **Environnements de production** | Déploiement, intégration continue |
@@ -59,8 +59,8 @@ Serveur PvP/Factions vanilla Farm2Win
 
 ## 📬 Me contacter
 
-💬 Envie de discuter technique, collaborer, ou simplement partager une idée ?  
-Contactez-moi sur Discord ! `feuillalex`
+Envie de discuter technique, collaborer, ou simplement partager une idée ?  
+[💬 Contactez-moi sur Discord !](https://discord.com/users/856846166627713024)
 
 <br>
 
