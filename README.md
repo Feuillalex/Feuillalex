@@ -70,7 +70,8 @@ Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authen
 ---
 
 ## ✉️ Me contacter
-Envie de discuter technique, collaborer, ou simplement partager une idée ? <div align="left">
+Envie de discuter technique, collaborer, ou simplement partager une idée ?
+<div align="left">
   <a href="https://discord.com/users/856846166627713024">
     <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
