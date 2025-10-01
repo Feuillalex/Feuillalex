@@ -59,8 +59,10 @@ Serveur PvP/Factions vanilla Farm2Win
 
 ## 📬 Me contacter
 
-Envie de discuter technique, collaborer, ou simplement partager une idée ?  
-[💬 Contactez-moi sur Discord !](https://discord.com/users/856846166627713024)
+Envie de discuter technique, collaborer, ou simplement partager une idée ?
+<div align="center">
+  <img src="https://img.shields.io/badge/💬Discord-blue?style=for-the-badge" alt="Contactez-moi sur Discord !">
+</div>
 
 <br>
 
