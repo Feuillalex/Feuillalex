@@ -1,75 +1,93 @@
-# 👋 Hello tout le monde, c’est Feuilla !
+<!-- Bannière ou image d’accueil -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=header&text=👋%20Bienvenue%20sur%20mon%20GitHub!&fontSize=28&fontColor=ffffff" />
+</div>
 
-🎓 **Développeur Java & JavaScript**, spécialisé dans l’univers des jeux-vidéo et plus particulièrement de Minecraft et des infrastructures dynamiques.
+# 🌿 Hello tout le monde, je suis **Feuilla** !
 
-Je travaille actuellement sur **Eldium**, mon serveur Minecraft UHC/Mini-jeux.  
-Mon quotidien : coder des plugins, gérer des serveurs à la volée, optimiser des bots et mettre en place des infrastructures solides pour des milliers de joueurs.
+🎓 **Développeur Java & JavaScript**, spécialisé dans l’univers des **jeux-vidéo**, et plus particulièrement de **Minecraft** et des **infrastructures dynamiques**.  
+Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et je construis des environnements capables d’accueillir **des milliers de joueurs en simultané**.
 
 ---
 
-## ✔️ À propos de moi
+## ✔️ À propos de moi  
 
-💼 Développeur fullstack, je construis des solutions **fiables, performantes et scalables**.  
-🌍 Je m’intéresse tout particulièrement aux systèmes vivants : serveurs à la demande, gestion automatique de ressources, monitoring temps réel.  
-🤝 J’adore collaborer sur des projets ambitieux, où la technique sert l’expérience utilisateur.
+💼 **Fullstack developer** passionné par la **scalabilité et la fiabilité**.  
+🌍 Intéressé par les systèmes vivants : serveurs éphémères, orchestration de ressources, monitoring en temps réel.  
+🤝 Je crois dans la **collaboration** et les projets ambitieux qui marient technique & expérience utilisateur.  
 
 ---
 
 ## 🔧 Ce que je fais
 
 | Domaine | Description |
-|--------|-------------|
-| 🧩 **Plugins Minecraft** | Développement avec **Java** (Bukkit, Velocity) |
-| ⚙️ **Infrastructures dynamiques** | Mise en place de serveurs à la demande |
-| 🤖 **Bots Discord** | Automatisation de la gestion communautaire avec **Discord.js** |
-| 🧪 **Environnements de production** | Déploiement, intégration continue |
+|---------|-------------|
+| 🧩 **Plugins Minecraft** | Développement avancé avec **Java** (Bukkit, Velocity, PaperMC) |
+| ⚙️ **Infrastructures dynamiques** | Mise en place de **serveurs à la demande** |
+| 🤖 **Bots Discord** | Automatisation communautaire avec **Discord.js** |
+| 🧪 **Production-ready** | CI/CD, monitoring et optimisation des performances |
+
 ---
 
 ## 🛠️ Stack technique
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+
+### 🔹 Langages & Frameworks  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🔹 Outils Minecraft & Backend  
 ![PaperMC](https://img.shields.io/badge/PaperMC-white?style=for-the-badge&logoColor=black)
 ![Velocity](https://img.shields.io/badge/Velocity-black?style=for-the-badge)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white)  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
+### 🔹 Bases de données  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white)
-
+### 🔹 Frontend & DevOps  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 💻 Mon portfolio de développement
+## 💻 Projets principaux
 
-🔹 **Eldium** : https://discord.gg/DZVxRpAqKg
-Serveur Minecraft UHC et mini-jeux innovant développé dans les versions récentes de Minecraft.
+🔹 **[Eldium](https://discord.gg/DZVxRpAqKg)**  
+Serveur Minecraft **UHC & Mini-jeux innovants** — architecture moderne, plugins sur-mesure et gameplay unique.  
 
 🔹 **Shandera**  
-Serveur PvP/Factions vanilla Farm2Win
+Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authentique.  
 
 ---
 
-## 📬 Me contacter
-
-Envie de discuter technique, collaborer, ou simplement partager une idée ?
-<div align="center">
-  <img src="https://img.shields.io/badge/💬Discord-blue?style=for-the-badge" alt="Contactez-moi sur Discord !">
-</div>
-
-<br>
+## 📊 Stats GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌐%20Mon%20site-À%20venir-blue?style=for-the-badge" alt="Lien vers mon futur portfolio">
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=feuilla&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=feuilla&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
 ---
 
-> Au plaisir de vous retrouver sur mes projets 🌿
+## ✉️ Me contacter
+
+<div align="center">
+  <a href="https://discord.com/users/856846166627713024">
+    <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=120&section=footer" />
+</div>
