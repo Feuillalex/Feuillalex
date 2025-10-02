@@ -20,7 +20,7 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 | Domaine | Description |
 |---------|-------------|
 | 🧩 **Plugins Minecraft** | Développement avancé avec **Java** (Bukkit, PaperMC, Velocity) |
-| ⚙️ **Infrastructures statiques et dynamiques** | Mise en place de **serveurs statiques ou à la demande** |
+| ⚙️ **Infrastructures statiques et dynamiques** | Mise en place de **serveurs statiques et à la demande** |
 | 🤖 **Bots Discord** | Automatisation communautaire avec **Discord.js** |
 | 🧪 **Production-ready** | CI/CD, monitoring et optimisation des performances |
 
