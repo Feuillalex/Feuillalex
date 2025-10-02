@@ -9,9 +9,9 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 
 ## ✔️ À propos de moi  
 
-💼 **Fullstack developer** passionné par la **scalabilité et la fiabilité**.  
+💼 Développeur fullstack passionné par l'optimisation et la fiabilité.  
 🌍 Intéressé par les systèmes vivants : serveurs éphémères, orchestration de ressources, monitoring en temps réel.  
-🤝 Je crois dans la **collaboration** et les projets ambitieux qui marient technique & expérience utilisateur.  
+🤝 Je crois dans le travail d'équipe et les projets ambitieux qui marient technique et expérience utilisateur.  
 
 ---
 
@@ -19,8 +19,8 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 
 | Domaine | Description |
 |---------|-------------|
-| 🧩 **Plugins Minecraft** | Développement avancé avec **Java** (Bukkit, Velocity, PaperMC) |
-| ⚙️ **Infrastructures dynamiques** | Mise en place de **serveurs à la demande** |
+| 🧩 **Plugins Minecraft** | Développement avancé avec **Java** (Bukkit, PaperMC, Velocity) |
+| ⚙️ **Infrastructures statiques et dynamiques** | Mise en place de **serveurs statiques ou à la demande** |
 | 🤖 **Bots Discord** | Automatisation communautaire avec **Discord.js** |
 | 🧪 **Production-ready** | CI/CD, monitoring et optimisation des performances |
 
@@ -31,28 +31,31 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 <div align="left">
 
 ### 🔹 Langages & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-### 🔹 Outils Minecraft & Backend  
+### 🔹 Outils Minecraft
 ![Bukkit](https://img.shields.io/badge/Bukkit-orange?style=for-the-badge) ![Velocity](https://img.shields.io/badge/Velocity-blue?style=for-the-badge)
 
 ### 🔹 Bases de données  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔹 Frontend & DevOps  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white) ![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C2F33?style=for-the-badge&logoColor=white) ![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Projets principaux
+## 💻 Portfolio
 
 🔹 **[Eldium](https://discord.gg/DZVxRpAqKg)**  
-Serveur Minecraft **UHC & Mini-jeux innovants** — architecture moderne, plugins sur-mesure et gameplay unique.  
+Serveur Minecraft **UHC & Mini-jeux** — architecture moderne, plugins sur-mesure et gameplay unique.
+
+🔹 **[Huracan](https://discord.gg/CNCXWmq2AE)**  
+Serveur Minecraft **PvP-Faction** — architecture moderne, plugins sur-mesure et gameplay unique.
 
 🔹 **Shandera**  
-Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authentique.
+Serveur **PvP-Faction** — expérience compétitive et authentique.
 
 ---
 
