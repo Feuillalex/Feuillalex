@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=header&text=👋%20Bienvenue%20sur%20mon%20GitHub!&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=header&text=🌿%20Hello%20tout%20le%20monde,%20c'est%20Feuilla%20!&fontSize=28&fontColor=ffffff" />
 </div>
-
-# 🌿 Hello tout le monde, je suis **Feuilla** !
 
 🎓 **Développeur Java & JavaScript**, spécialisé dans l’univers des **jeux-vidéo**, et plus particulièrement de **Minecraft** et des **infrastructures dynamiques**.  
 Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et je construis des environnements capables d’accueillir **des milliers de joueurs en simultané**.
