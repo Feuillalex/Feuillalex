@@ -52,24 +52,13 @@ Je développe des **plugins**, j’orchestre des **serveurs à la volée**, et j
 Serveur Minecraft **UHC & Mini-jeux innovants** — architecture moderne, plugins sur-mesure et gameplay unique.  
 
 🔹 **Shandera**  
-Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authentique.  
-
----
-
-## 📊 Stats GitHub
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=feuilla&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=feuilla&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+Serveur **PvP/Factions vanilla Farm2Win** — expérience compétitive et authentique.
 
 ---
 
 ## ✉️ Me contacter
 Envie de discuter technique, collaborer, ou simplement partager une idée ?
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/856846166627713024">
     <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
