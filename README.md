@@ -60,7 +60,10 @@ Serveur **PvP-Faction** — expérience compétitive et authentique.
 ---
 
 ## ✉️ Me contacter
-Envie de discuter technique, collaborer, ou simplement partager une idée ? <div align="left"><a href="https://discord.com/users/856846166627713024"><img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a></div>
+Envie de discuter technique, collaborer, ou simplement partager une idée ? 
+<a href="https://discord.com/users/856846166627713024">
+  <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=footer&text=👋%20Au%20plaisir%20de%20vous%20retrouver%20sur%20mes%20projets%20!&fontSize=28&fontColor=ffffff" />
