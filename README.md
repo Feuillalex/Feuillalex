@@ -75,8 +75,6 @@ Envie de discuter technique, collaborer, ou simplement partager une idée ?
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA55D&height=150&section=footer&text=👋%20Au%20plaisir%20de%20vous%20retrouver%20sur%20mes%20projets%20!&fontSize=28&fontColor=ffffff" />
 </div>
